@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Assets/Main.style.css">
+    <title>Coding Quiz</title>
+</head>
+
+
+
+
+<body>
+    <div>
+       <a href="./highscores/highscores.html" button id="highscores">Highscores</button></a>
+        <p id="countdown"></p>
+    </div>
+   
+    
+
+
+ <div class="main1">
+        
+        <h1>Coding Challenge Quiz</h1>
+        
+
+      <div>
+            <p id="text">
+            Welcome to my coding quiz! Upon starting the quiz you will be prompted to answer a question, there are five total. There will be a timer in the top right corner that ticks down as you play. Answer incorrectly and time will be subtracted. Answer correctly and you will move on to the next question. You will see a highscores option in the top left to view your best times as well. If you think you are ready then press the play button below to start!
+            </p>
+        </div>
+        
+       <div class="play">
+        <button id="start">Start Quiz</button>
+       </div>
+ </div>
+
+ <div class="tester">
+ <h2 id="questionTitle"></h2>
+</div>
+
+    <div class="tester1">
+     <div id="answer"></div>
+     <div id="choices"></div>
+    </div>
+  
+
+  
+    <div class="endStyling">
+    <div id="endScreen" class="hide">
+     <h2>Game Over</h2>
+     <p> Your final score is: 55 <span id="finalScore"></span></p>
+     <a href="./highscores/highscores.html" button id="submit"> Submit Score</button></a>
+    </div>
+    </div>
+
+    <div class="response">
+     <h2 id='correct' class="hide"> CORRECT </h2>
+     <h2 id="incorrect" class = 'hide'> TRY AGAIN </h2>
+    </div>
+
+<script src="./Assets/Main.script.js"></script>
+</body>
+</html>
+

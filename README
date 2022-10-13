@@ -1,0 +1,29 @@
+#NAME: 
+CODING QUIZ
+
+## INTRODUCTION: 
+Hello, my name is Brennan. I have created this javascript based coding quiz. This project was created for U.C. Davis coding bootcamp. This project honed my abilty to call functions, create semantic elements, and impliment new things like timer elements and appends.
+
+## DESCRIPTION: 
+This project implements features of html, css, javscript, bootstrap, and jquery. It uses semantic elements along with multiple functions throughout the javascript to create a interactive, point based game in which you can compete with yourself and challenege your knowledge.
+
+![gif of coding quiz](04-web-apis-homework-demo.gif) 
+![homeworkgif](C:\Users\brenn\work\Coding-Quiz\04-web-apis-homework-demo.gif)
+
+## INSTALLATION: 
+This program is very simple to run. Upon entering the quiz you will be greated with an introduction that tells you about the quiz. Once started you will be prompted with a question, there are 5 total. When the game comes to an end your score will be based off how quickly you answered the questions with given time left. You will be given an option to submit your initials to log your score. To copy this project for yourself, simply click the link in the github portfolio to copy it and paste it into your prefered editor.
+
+## SUPPORT: 
+If this does not operate like the above installation guide says, you may have entered an invalid entry. If it still gives you an error you can email me at paxtbiz@gmail.com for a timely response on why this issue is still occurring for you.
+
+## ROADMAP: 
+In the future I plan to increase the amount of questions you are given, and potentially give you an option to log your score against other uses not just yourself.
+
+## CONTRIBUTORS:
+ Being that this is still in early access I will not be accepting any contributions on this project. However if you have suggestions on how this quiz can be better operated or streamlined do not hesitate to reach out and let me know at paxtbiz@gmail.com.
+
+## AUTHORS AND ACKNOWLEDGEMENT:
+ This was all done by me, however a great resource I used that helped me along this journey was MDN and W3schools. Without their extremely helpful website I would not have been able to overcome the issues that this site first gave me and been able to correct it.
+
+## THANKS:
+ Thank you for viewing this project of mine. I hope to have more projects like this and many others coming soon for the entirety of this bootcamp. I look forward to presenting them to everyone and showing how hard I work to be able to create something that anyone can use to ease their daily life routines.
