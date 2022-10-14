@@ -1,4 +1,4 @@
-#NAME: 
+## NAME: 
 CODING QUIZ
 
 ## INTRODUCTION: 
@@ -7,8 +7,8 @@ Hello, my name is Brennan. I have created this javascript based coding quiz. Thi
 ## DESCRIPTION: 
 This project implements features of html, css, javscript, bootstrap, and jquery. It uses semantic elements along with multiple functions throughout the javascript to create a interactive, point based game in which you can compete with yourself and challenege your knowledge.
 
-![gif of coding quiz](04-web-apis-homework-demo.gif) 
-![homeworkgif](C:\Users\brenn\work\Coding-Quiz\04-web-apis-homework-demo.gif)
+![gif of coding quiz](/Assets/04-web-apis-homework-demo.gif)
+
 
 ## INSTALLATION: 
 This program is very simple to run. Upon entering the quiz you will be greated with an introduction that tells you about the quiz. Once started you will be prompted with a question, there are 5 total. When the game comes to an end your score will be based off how quickly you answered the questions with given time left. You will be given an option to submit your initials to log your score. To copy this project for yourself, simply click the link in the github portfolio to copy it and paste it into your prefered editor.
